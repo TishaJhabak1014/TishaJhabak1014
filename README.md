@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python and machine learning.**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate in **open source.**
 
 - 📫 How to reach me **iamtisha22@gmail.com**
 
