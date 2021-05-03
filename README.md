@@ -1,4 +1,4 @@
-
+<img align="centre" width="100%" height="300" src="https://th.bing.com/th/id/OIP.FdmA0sdHchE0og4HcZGZrAHaFS?w=288&h=206&c=7&o=5&pid=1.7">
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Tisha Jhabak</h1>
