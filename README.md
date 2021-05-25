@@ -1,4 +1,4 @@
-<img align="centre" width="100%" height="300" src="https://th.bing.com/th/id/R22d414b2f550ebf4dadbaa5e585a4d9e?rik=6uRnbNjEqT64qg&riu=http%3a%2f%2fsci.esa.int%2fscience-e-media%2fimg%2f26%2fheic0717c410.jpg&ehk=X%2fyvJrXIUag2C1z0R%2bAsSBYPlA0CfYt%2bwJK6LQTw8cU%3d&risl=&pid=ImgRaw">
+<img align="centre" width="100%" height="300" src="https://media.buzzle.com/media/images-en/photos/astronomy/1200-39389686-leo-constellation-in-deep-space.jpg">
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Tisha Jhabak</h1>
@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate in **open source.**
 
-- 📫 How to reach me **iamtisha22@gmail.com**
+- 📫 How to reach me :  **iamtisha22@gmail.com**
 
-- ⚡ Fun fact **I love humor, fiction and my camera.**
+- ⚡ Fun fact :  **I love humor, fiction and my camera.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"><img align="center" src="https://www.bing.com/th?id=OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa&w=204&h=204&c=8&rs=1&qlt=90&pid=3.1&rm=2" alt="tisha-jhabak-91a2a7206" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"><img align="center" src="https://www.bing.com/th?id=OIP.DgVNhFcvWWSCxJpVWsry4wHaHV&w=100&h=100&c=8&rs=1&qlt=90&pid=3.1&rm=2" alt="tisha-jhabak-91a2a7206" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
