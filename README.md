@@ -1,4 +1,4 @@
-<img align="centre" width="100%" height="300" src="https://th.bing.com/th/id/OIP.FdmA0sdHchE0og4HcZGZrAHaFS?w=288&h=206&c=7&o=5&pid=1.7">
+<img align="centre" width="100%" height="300" src="https://th.bing.com/th/id/R22d414b2f550ebf4dadbaa5e585a4d9e?rik=6uRnbNjEqT64qg&riu=http%3a%2f%2fsci.esa.int%2fscience-e-media%2fimg%2f26%2fheic0717c410.jpg&ehk=X%2fyvJrXIUag2C1z0R%2bAsSBYPlA0CfYt%2bwJK6LQTw8cU%3d&risl=&pid=ImgRaw">
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Tisha Jhabak</h1>
