@@ -28,3 +28,15 @@
    <img align='center' src="https://github-readme-stats.vercel.app/api?username=TishaJhabak1014&show_icons=true&theme=tokyonight">
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=TishaJhabak1014.visitor-badge"> -->
 <!-- ![Tisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TishaJhabak1014&show_icons=true&theme=radical)  -->
+  
+<!-- [![Tisha's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TishaJhabak1014&theme=blue-green)](https://github.com/TishaJhabak1014/github-readme-stats) -->
+
+[![TishaJhabak's's github streak](https://github-readme-streak-stats.herokuapp.com/?user=TishaJhabak1014&theme=blue-green)](https://github.com/TishaJhabak1014/github-readme-streak-stats)
+<p align="center">
+    <a href="https://github.com/" alt="">
+        <img src="https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff" /></a>
+    <a href="https://github.com/ellerbrock/open-source-badges/" alt="">
+        <img src="https://badges.frapsoft.com/os/v2/open-source.png?v=103)" /></a>
+    <a href="http://git-scm.com/" alt="Sponsors on Open Collective">
+        <img src="https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff" /></a>
+</p>
