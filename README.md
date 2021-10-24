@@ -1,4 +1,4 @@
-<img align="centre" width="100%" height="300" src="https://media.buzzle.com/media/images-en/photos/astronomy/1200-39389686-leo-constellation-in-deep-space.jpg">
+![GitHub-2019-Hero-Lrg-1280x668](https://user-images.githubusercontent.com/78808336/138592749-42e2dbdf-4a75-43f3-841c-4ce312d2b5d8.jpg)
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Tisha Jhabak</h1>
