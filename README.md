@@ -1,18 +1,12 @@
 ![GitHub-2019-Hero-Lrg-1280x668](https://user-images.githubusercontent.com/78808336/138592749-42e2dbdf-4a75-43f3-841c-4ce312d2b5d8.jpg)
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<h1 align="center">Hi 👋, I'm Tisha Jhabak</h1>
-<h3 align="center">A passionate learner trying to find creativity!!</h3>
+<h1 align="center">Hi 👋, Tisha Jhabak here</h1>
 
-- 🔭 I’m currently working on **developing some core coding skills.**
+- 🔗 Reach out: iamtisha22@gmail.com | <a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"> LinkedIn <a>
+- 🔭 Key Interests: Artificial Intelligence | Cloud Security | Data Science | Software Design and Architecture | EdTech | FinTech.
+- 🌎 First things first, 'Driving change to make living better'
 
-- 🌱 I’m currently learning **python and machine learning.**
-
-- 👯 I’m looking to collaborate in **open source.**
-
-- 📫 How to reach me :  **iamtisha22@gmail.com**
-
-- ⚡ Fun fact :  **I love humor, fiction and my camera.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
