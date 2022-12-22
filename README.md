@@ -1,7 +1,7 @@
 ![GitHub-2019-Hero-Lrg-1280x668](https://user-images.githubusercontent.com/78808336/138592749-42e2dbdf-4a75-43f3-841c-4ce312d2b5d8.jpg)
 <img align="right" width=400 src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<h1 align="center">Hi 👋, Tisha Jhabak here</h1>
+<h1 align="center">Hi 👋, Tisha here</h1>
 
 - 🔗 Reach out: iamtisha22@gmail.com | <a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"> LinkedIn <a>
 - 🔭 Key Interests: Artificial Intelligence | Cloud Security | Data Science | Software Design and Architecture | EdTech | FinTech.
