@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, Tisha here</h1>
 
 - 🔗 Reach out: iamtisha22@gmail.com | <a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"> LinkedIn <a>
-- 🔭 Key Interests: Artificial Intelligence | Cloud Security | Data Science | Software Design and Architecture | EdTech | FinTech.
+- 🔭 Key Interests: Software Design and Architecture | Artificial Intelligence | Cloud Security | Data Science
 - 🌎 First things first, 'Driving change to make living better'
 
 
@@ -20,10 +20,8 @@
  ## ⚙ Stats for <a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank">Tisha </a>
 <p align="center">
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=TishaJhabak1014&theme=react-dark&hide_border=true" width="100%"/> -->
-
-  
   <img src="https://github-readme-stats.vercel.app/api?username=TishaJhabak1014&show_icons=true&theme=tokyonight">
-  
+  <br>
   <a href="https://github.com/TishaJhabak1014/github-readme-streak-stats">
     <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=TishaJhabak1014&theme=blue-green"></a>
 </p>
