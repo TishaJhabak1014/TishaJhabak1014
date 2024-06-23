@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, Tisha here</h1>
 
 - 🔗 Reach out: iamtisha22@gmail.com | <a href="https://linkedin.com/in/tisha-jhabak-91a2a7206" target="blank"> LinkedIn <a>
-- 🔭 Key Interests: Software Design and Architecture | Artificial Intelligence | Cloud Security | Data Science
+- 🔭 Key Interests: Software Design and Architecture | Artificial Intelligence 
 - 🌎 First things first, 'Driving change to make living better'
 
 
